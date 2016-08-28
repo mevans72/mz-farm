@@ -523,7 +523,7 @@ function initmap() {
         })
     }
 
-
+}
 
 initmap();
 
